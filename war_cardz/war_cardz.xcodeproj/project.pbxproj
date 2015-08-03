@@ -15,6 +15,8 @@
 		1AB847C51B6FE64900BA5499 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1AB847C41B6FE64900BA5499 /* Images.xcassets */; };
 		1AB847C81B6FE64900BA5499 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1AB847C61B6FE64900BA5499 /* LaunchScreen.xib */; };
 		1AB847D41B6FE64900BA5499 /* war_cardzTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AB847D31B6FE64900BA5499 /* war_cardzTests.swift */; };
+		1AB847DE1B70035300BA5499 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AB847DD1B70035300BA5499 /* Card.swift */; };
+		1AB847E01B70041A00BA5499 /* CardStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AB847DF1B70041A00BA5499 /* CardStack.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +42,8 @@
 		1AB847CD1B6FE64900BA5499 /* war_cardzTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = war_cardzTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1AB847D21B6FE64900BA5499 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1AB847D31B6FE64900BA5499 /* war_cardzTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = war_cardzTests.swift; sourceTree = "<group>"; };
+		1AB847DD1B70035300BA5499 /* Card.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
+		1AB847DF1B70041A00BA5499 /* CardStack.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardStack.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +91,8 @@
 				1AB847BF1B6FE64800BA5499 /* GameViewController.swift */,
 				1AB847C11B6FE64800BA5499 /* Main.storyboard */,
 				1AB847C41B6FE64900BA5499 /* Images.xcassets */,
+				1AB847DD1B70035300BA5499 /* Card.swift */,
+				1AB847DF1B70041A00BA5499 /* CardStack.swift */,
 				1AB847C61B6FE64900BA5499 /* LaunchScreen.xib */,
 				1AB847B71B6FE64800BA5499 /* Supporting Files */,
 			);
@@ -222,6 +228,8 @@
 				1AB847BE1B6FE64800BA5499 /* GameScene.swift in Sources */,
 				1AB847C01B6FE64800BA5499 /* GameViewController.swift in Sources */,
 				1AB847BA1B6FE64800BA5499 /* AppDelegate.swift in Sources */,
+				1AB847DE1B70035300BA5499 /* Card.swift in Sources */,
+				1AB847E01B70041A00BA5499 /* CardStack.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

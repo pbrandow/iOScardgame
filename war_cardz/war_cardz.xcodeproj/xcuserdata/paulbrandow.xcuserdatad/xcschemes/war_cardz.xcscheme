@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "1A26C93D1B6FDFE800548E54"
-               BuildableName = "Warcardz.app"
-               BlueprintName = "Warcardz"
-               ReferencedContainer = "container:Warcardz.xcodeproj">
+               BlueprintIdentifier = "1AB847B31B6FE64800BA5499"
+               BuildableName = "war_cardz.app"
+               BlueprintName = "war_cardz"
+               ReferencedContainer = "container:war_cardz.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "1A26C9521B6FDFE800548E54"
-               BuildableName = "WarcardzTests.xctest"
-               BlueprintName = "WarcardzTests"
-               ReferencedContainer = "container:Warcardz.xcodeproj">
+               BlueprintIdentifier = "1AB847CC1B6FE64900BA5499"
+               BuildableName = "war_cardzTests.xctest"
+               BlueprintName = "war_cardzTests"
+               ReferencedContainer = "container:war_cardz.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,20 +46,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "1A26C9521B6FDFE800548E54"
-               BuildableName = "WarcardzTests.xctest"
-               BlueprintName = "WarcardzTests"
-               ReferencedContainer = "container:Warcardz.xcodeproj">
+               BlueprintIdentifier = "1AB847CC1B6FE64900BA5499"
+               BuildableName = "war_cardzTests.xctest"
+               BlueprintName = "war_cardzTests"
+               ReferencedContainer = "container:war_cardz.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1A26C93D1B6FDFE800548E54"
-            BuildableName = "Warcardz.app"
-            BlueprintName = "Warcardz"
-            ReferencedContainer = "container:Warcardz.xcodeproj">
+            BlueprintIdentifier = "1AB847B31B6FE64800BA5499"
+            BuildableName = "war_cardz.app"
+            BlueprintName = "war_cardz"
+            ReferencedContainer = "container:war_cardz.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -76,10 +76,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1A26C93D1B6FDFE800548E54"
-            BuildableName = "Warcardz.app"
-            BlueprintName = "Warcardz"
-            ReferencedContainer = "container:Warcardz.xcodeproj">
+            BlueprintIdentifier = "1AB847B31B6FE64800BA5499"
+            BuildableName = "war_cardz.app"
+            BlueprintName = "war_cardz"
+            ReferencedContainer = "container:war_cardz.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,10 +95,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1A26C93D1B6FDFE800548E54"
-            BuildableName = "Warcardz.app"
-            BlueprintName = "Warcardz"
-            ReferencedContainer = "container:Warcardz.xcodeproj">
+            BlueprintIdentifier = "1AB847B31B6FE64800BA5499"
+            BuildableName = "war_cardz.app"
+            BlueprintName = "war_cardz"
+            ReferencedContainer = "container:war_cardz.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

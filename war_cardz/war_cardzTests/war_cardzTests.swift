@@ -1,6 +1,6 @@
 //
-//  WarcardzTests.swift
-//  WarcardzTests
+//  war_cardzTests.swift
+//  war_cardzTests
 //
 //  Created by Paul Brandow on 2015-08-03.
 //  Copyright (c) 2015 Paul Brandow. All rights reserved.
@@ -9,7 +9,7 @@
 import UIKit
 import XCTest
 
-class WarcardzTests: XCTestCase {
+class war_cardzTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

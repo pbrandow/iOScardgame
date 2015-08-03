@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Warcardz.xcscheme</key>
+		<key>war_cardz.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>1A26C93D1B6FDFE800548E54</key>
+		<key>1AB847B31B6FE64800BA5499</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>1A26C9521B6FDFE800548E54</key>
+		<key>1AB847CC1B6FE64900BA5499</key>
 		<dict>
 			<key>primary</key>
 			<true/>

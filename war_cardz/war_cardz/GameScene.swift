@@ -9,14 +9,14 @@
 import SpriteKit
 
 class GameScene: SKScene {
+    var card1 = SKSpriteNode(imageNamed: "c1")
+    
     override func didMoveToView(view: SKView) {
         /* Setup your scene here */
-        let myLabel = SKLabelNode(fontNamed:"Chalkduster")
-        myLabel.text = "Hello, World!";
-        myLabel.fontSize = 65;
-        myLabel.position = CGPoint(x:CGRectGetMidX(self.frame), y:CGRectGetMidY(self.frame));
+                
+        card1.position = CGPoint(x: size.width / 2, y: size.height / 2)
         
-        self.addChild(myLabel)
+        self.addChild(card1)
     }
     
     override func touchesBegan(touches: Set<NSObject>, withEvent event: UIEvent) {

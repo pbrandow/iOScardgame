@@ -419,6 +419,7 @@
 				1AB847D91B6FE64900BA5499 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1AB847DA1B6FE64900BA5499 /* Build configuration list for PBXNativeTarget "war_cardzTests" */ = {
 			isa = XCConfigurationList;
@@ -427,6 +428,7 @@
 				1AB847DC1B6FE64900BA5499 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>213D8D28-AD87-42E4-B094-59CDCD64581B</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>war_cardz</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>9C2FF715C3D0AE73C474864C3707878BEC08A7BD</key>
 		<string>https://github.com/pbrandow/iOScardgame.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>war_cardz/war_cardz.xcodeproj/project.xcworkspace</string>
+	<string>war_cardz/war_cardz.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>9C2FF715C3D0AE73C474864C3707878BEC08A7BD</key>
